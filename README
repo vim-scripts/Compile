@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3462
+
+Compile is a small plugin that facilitates the building of programs. Type :Compile or press Ctrl-c c to start the building
+
+https://github.com/msambinelli/Compile
